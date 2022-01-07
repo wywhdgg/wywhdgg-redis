@@ -29,7 +29,7 @@
         <lombol.version>1.16.20</lombol.version>
         <cim.core.version>1.0.0-SNAPSHOT</cim.core.version>
         <javassist.version>3.21.0-GA</javassist.version>
-        <protobuf.java.version>3.9.1</protobuf.java.version>
+        <protobuf.java.version>3.16.1</protobuf.java.version>
         <commons-lang.version>2.6</commons-lang.version>
         <fastjson.version>1.2.58</fastjson.version>
         <jedis.version>2.9.2</jedis.version>
