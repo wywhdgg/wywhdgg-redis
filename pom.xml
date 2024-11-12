@@ -25,7 +25,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>
-        <netty-all.version>4.1.34.Final</netty-all.version>
+        <netty-all.version>4.1.115.Final</netty-all.version>
         <lombol.version>1.16.20</lombol.version>
         <cim.core.version>1.0.0-SNAPSHOT</cim.core.version>
         <javassist.version>3.21.0-GA</javassist.version>
